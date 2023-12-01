@@ -12,13 +12,15 @@
 
 ***
 
-### 📎 00 Portfolio - Création d'un portfolio en HTML/CSS/SASS/JS
+### 📎 Mon Portfolio
 
 _`Début du projet le 27/11/2023`_
 
 ***
 
-## Bla bla bla
+## Création d'un portfolio en HTML/CSS/SASS/JS
+
+La création d'un portfolio personnel est une excellente manière de mettre en avant vos compétences et réalisations en tant que développeur. En utilisant les langages web tels que HTML, CSS, SASS, et JS, vous pouvez concevoir un site professionnel et interactif qui captivera l'attention des recruteurs et des visiteurs.
 
 ### 📦 &nbsp; Utilisé dans ce projet
 
