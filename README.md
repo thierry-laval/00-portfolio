@@ -2,7 +2,7 @@
 
 ## Auteur
 
-![Capture d'écran 1](img/pic02.jpg)
+![Capture d'écran 1](images/pic02.jpg)
 
 👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
 
